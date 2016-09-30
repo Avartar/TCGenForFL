@@ -22,7 +22,7 @@ A wrong connection/link between two blocks, e.g. connect a signal A to input 2 i
 - Simulink SID is a unique ID for each block in a Simulink model. Because, in   Simulink, several blocks in different subsystems or layers could have the same name, we use Simulink SID to differentiate different blocks in our experiment.  
 - Simulink SID is not visible in Simulink window or Simulink block property.
 - Simulink blocks with close SIDs **do not** mean their locations are physically close, especially in all our industrial subjects.
-- All the faults are realistic, typical in industry practice, and seeded by an experienced engineers from our industry partner.)
+- All the faults are realistic, typical in industry practice, and seeded by an experienced engineer from our industry partner.)
 
 
 | Model Name | Faulty Version | Fault Type | SID |
