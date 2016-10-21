@@ -89,4 +89,4 @@ A wrong connection/link between two blocks, e.g. connect a signal A to input 2 i
 | MGL        | AF20           | Type1      | 321 |
 
 
-Any further questions or discussions, please contact me or leave a msg under this project in github.
+Any further questions or discussions, please contact me or leave a msg under this project in github. 
